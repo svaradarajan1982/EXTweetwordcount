@@ -4,7 +4,7 @@
 
 ## Steps to run the file:
 
-**Step 1:** Clone the code base EXTweetwordcount from the github location
+**Step 1:** Clone the code base EXTweetwordcount from the github location  
           1. git clone https://github.com/svaradarajan1982/EXTweetwordcount.git
 
 **Step 2:** Ensure postgres is running. You can check whether postgres is running by running the following command:  
