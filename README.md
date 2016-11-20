@@ -4,7 +4,7 @@
 
 ## Steps to run the file:
 
-Step 1: Clone the code base EXTweetwordcount from the github location
+*Step 1:* Clone the code base EXTweetwordcount from the github location
 
 Step 2: Ensure postgres is running. You can check whether postgres is running by running the following command:  
          (i) ps aux | grep post   
