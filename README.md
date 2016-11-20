@@ -7,7 +7,7 @@
 Step 1: Clone the code base EXTweetwordcount from the github location
 
 Step 2: Ensure postgres is running. You can check whether postgres is running by running the following command:
-    (i) ps aux | grep post
+    (i) ps aux | grep post 
     (ii) If postgres is not running. Start postgres: /data/start_postgres.sh
 
 Step 3: Change directory into /root/EXTweetwordcount
