@@ -15,3 +15,5 @@
 **Step 4:** Run the shell wrapper script as bash shell_wrapper.sh
 
 **Step 5:** Code should produce a print out all the outputs on the screen and create top20.html bar chart file
+
+**Note:** Histogram of top 20[top20.html] words is presented as a html document instead of .png file. Bokeh does not have a save as .png option. Download the HTML file and open in browser or copy paste the HTML code into browser.
