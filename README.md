@@ -14,7 +14,7 @@
 **Step 3:** Change directory into /root/EXTweetwordcount
 
 **Step 4:** Run the [shell-wrapper](shell_wrapper.sh) script as: bash shell_wrapper.sh
-  1. When the storm job starts, hit **Enter** when you see the following message:
+  1. When the storm job starts, hit **Enter** when you see the following message:  
     ```
     WARNING: You're currently running as root; probably by accident.
     Press control-C to abort or Enter to continue as root.
