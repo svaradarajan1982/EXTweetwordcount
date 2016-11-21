@@ -15,10 +15,12 @@
 
 **Step 4:** Run the [shell-wrapper](shell_wrapper.sh) script as: bash shell_wrapper.sh
   1. When the storm job starts, hit **Enter** when you see the following message:
-    ```WARNING: You're currently running as root; probably by accident.
+    ```
+    WARNING: You're currently running as root; probably by accident.
     Press control-C to abort or Enter to continue as root.
     Set LEIN_ROOT to disable this warning.
     ```
+    
 
 **Step 5:** Code should produce a print out all the outputs on the screen and create top20.html bar chart file. Screenshots of running all components of application is available in [screenshots](screenshots) folder.
 
